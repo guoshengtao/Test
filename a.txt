@@ -1,5 +1,7 @@
-class a {
+﻿class a {
 	public static void mian(){
  		System.out.println("hello 小涛");
+		System.out.println("hello 张三");
+		System.out.println("hello 李四");
 	}
 }
